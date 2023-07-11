@@ -1,0 +1,15 @@
+/home/pavel/Рабочий стол/HomeWork2/task10/bin/Debug/net7.0/task10
+/home/pavel/Рабочий стол/HomeWork2/task10/bin/Debug/net7.0/task10.deps.json
+/home/pavel/Рабочий стол/HomeWork2/task10/bin/Debug/net7.0/task10.runtimeconfig.json
+/home/pavel/Рабочий стол/HomeWork2/task10/bin/Debug/net7.0/task10.dll
+/home/pavel/Рабочий стол/HomeWork2/task10/bin/Debug/net7.0/task10.pdb
+/home/pavel/Рабочий стол/HomeWork2/task10/obj/Debug/net7.0/task10.csproj.AssemblyReference.cache
+/home/pavel/Рабочий стол/HomeWork2/task10/obj/Debug/net7.0/task10.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavel/Рабочий стол/HomeWork2/task10/obj/Debug/net7.0/task10.AssemblyInfoInputs.cache
+/home/pavel/Рабочий стол/HomeWork2/task10/obj/Debug/net7.0/task10.AssemblyInfo.cs
+/home/pavel/Рабочий стол/HomeWork2/task10/obj/Debug/net7.0/task10.csproj.CoreCompileInputs.cache
+/home/pavel/Рабочий стол/HomeWork2/task10/obj/Debug/net7.0/task10.dll
+/home/pavel/Рабочий стол/HomeWork2/task10/obj/Debug/net7.0/refint/task10.dll
+/home/pavel/Рабочий стол/HomeWork2/task10/obj/Debug/net7.0/task10.pdb
+/home/pavel/Рабочий стол/HomeWork2/task10/obj/Debug/net7.0/task10.genruntimeconfig.cache
+/home/pavel/Рабочий стол/HomeWork2/task10/obj/Debug/net7.0/ref/task10.dll
